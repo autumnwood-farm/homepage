@@ -1,0 +1,5 @@
+body { margin: 0; font-family: 'Segoe UI', sans-serif; color: #333; } header { display: flex; justify-content: space-between; align-items: center; background: #2f4f3f; color: white; padding: 15px 30px; } .logo { font-size: 22px; font-weight: bold; } nav a { color: white; margin-left: 20px; text-decoration: none; font-weight: 500; } nav a:hover { text-decoration: underline; } .hero { height: 350px; background: url('https://images.unsplash.com/photo-1500382017468-9049fed747ef') center/cover; color: white; display: flex; flex-direction: column; justify-content: center; align-items: center; text-shadow: 1px 1px 5px black; } .hero h1 { font-size: 42px; margin: 0; } .hero p { font-size: 18px; } .content { padding: 50px; text-align: center; } footer { background: #222; color: white; text-align: center; padding: 20px; }
+
+Get Outlook for iOS
+
+Classified as General
